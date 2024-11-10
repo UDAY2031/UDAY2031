@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/artificial-intelligence-linkedin-banner-template_23-2150360356.jpg?w=2000)
+![MasterHead](https://img.freepik.com/premium-vector/ai-artificial-intelligence-abstract-background_34645-1354.jpg?w=1380)
 <h1 align="center">💻🤖 Hi 👋, I'm UDAY KUMAR G 💡🤖</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="1000" src="https://media.licdn.com/dms/image/C4D12AQEwyvEnLPlPRQ/article-cover_image-shrink_720_1280/0/1616944778816?e=2147483647&v=beta&t=JDvn_R5XEO7v00QkEkZKHxMkJK-v4K7KKZCRnHRGb38">
