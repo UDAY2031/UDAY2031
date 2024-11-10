@@ -1,7 +1,7 @@
 ![MasterHead](https://img.freepik.com/free-vector/artificial-intelligence-linkedin-banner-template_23-2150360356.jpg?w=2000)
 <h1 align="center">Hi 👋, I'm UDAY KUMAR G</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/ai-humanoid-automation-zb3dt1s0n11ucfwb.gif">
+<img align="right" alt="Coding" width="1000" src="https://media.licdn.com/dms/image/C4D12AQEwyvEnLPlPRQ/article-cover_image-shrink_720_1280/0/1616944778816?e=2147483647&v=beta&t=JDvn_R5XEO7v00QkEkZKHxMkJK-v4K7KKZCRnHRGb38">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uday2031&label=Profile%20views&color=0e75b6&style=flat" alt="uday2031" /> </p>
 
@@ -19,9 +19,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="[https://linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/uday-kumar-g-3956312a4/)" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Uday_Kumar_G" height="30" width="40" />
+</a>
 <a href="https://instagram.com/the_ai_dream_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_ai_dream_1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/THE AI DREAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the ai dream" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/spiderbot15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="spiderbot15" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/spiderbot15" target="blank">
+  <img align="center" src="https://img.shields.io/badge/CodeChef-%235A5A5A.svg?&style=for-the-badge&logo=codechef&logoColor=white" alt="spiderbot15" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
