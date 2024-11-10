@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **MINI PROJECTS**
 - 🌱 I’m currently learning **MACHINE LEARNING , DATA NETWORKS**
-- 💬 Ask me about **ROBOTICS, MACHINE LEARNING**
+- 💬 Ask me about **CNN, MACHINE LEARNING,NEURAL NETWORK**
 - 📫 How to reach me **yellowflash2031@gmail.com**
 - ⚡ Fun fact **I AM FUNNY**
 
