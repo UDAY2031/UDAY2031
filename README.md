@@ -84,5 +84,5 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UDAY2031/UDAY2031/blob/44fbaac45df1da2e7170c2bef1872daeb323d6a5/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UDAY2031/UDAY2031/blob/44fbaac45df1da2e7170c2bef1872daeb323d6a5/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/UDAY2031/UDAY2031/blob/44fbaac45df1da2e7170c2bef1872daeb323d6a5/github-snake.svg" />
 </picture>
