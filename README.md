@@ -1,5 +1,6 @@
 ![MasterHead](https://img.freepik.com/premium-vector/ai-artificial-intelligence-abstract-background_34645-1354.jpg?w=1380)
 <h1 align="center">💻🤖 Hi 👋, I'm UDAY KUMAR G 💡🤖</h1>
+<h2 align="center">      "Coding is ELEGANCE"</h2>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="1000" src="https://media.licdn.com/dms/image/C4D12AQEwyvEnLPlPRQ/article-cover_image-shrink_720_1280/0/1616944778816?e=2147483647&v=beta&t=JDvn_R5XEO7v00QkEkZKHxMkJK-v4K7KKZCRnHRGb38">
 
@@ -17,7 +18,7 @@
 - 🌱 I’m currently learning **MACHINE LEARNING , DATA NETWORKS**
 - 💬 Ask me about **CNN, MACHINE LEARNING,NEURAL NETWORK**
 - 📫 How to reach me **yellowflash2031@gmail.com**
-- ⚡ Fun fact **I AM FUNNY**
+- ⚡ Fun fact: **404: Seriousness not found.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
