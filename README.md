@@ -20,6 +20,18 @@
 - 📫 How to reach me **yellowflash2031@gmail.com**
 - ⚡ Fun fact: **404: Seriousness not found.**
 
+<img align="right" width="300px" alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif">
+
+<p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<em><strong>A little more about me...</strong></em></p>
+
+<p>
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+<b><i>Learning while HOPING & HUSTLING!!!</i></b>
+<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50">
+</p>
+
+<hr/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/uday-kumar-g-3956312a4/" target="blank">
@@ -81,6 +93,41 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uday2031&theme=black-ice" alt="uday2031" />
 </p>
+
+<hr/>
+
+[ 🦜 PARTY PARROTS ]
+<div align="center">
+<p>Here are some <a href="https://cultofthepartyparrot.com">🦜 parrots</a>:</p>
+<div>
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+</div>
+</div>
+
+<hr/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UDAY2031/UDAY2031/output/github-snake-dark.svg" />
