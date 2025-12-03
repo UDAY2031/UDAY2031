@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/premium-vector/ai-artificial-intelligence-abstract-background_34645-1354.jpg?w=1380)
+![MasterHead](https://github.com/UDAY2031/Projects/blob/bdce8b8010273a4b9ac1d2aa08711e83343af8fe/pfpmaster.png)
 <h1 align="center">💻🤖 Hi 👋, I'm UDAY KUMAR G 💡🤖</h1>
 <h2 align="center">      "Coding is ELEGANCE"</h2>
 <h3 align="center">A passionate Software developer from India</h3>
