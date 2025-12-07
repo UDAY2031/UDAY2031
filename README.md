@@ -20,12 +20,14 @@
 - 📫 How to reach me **yellowflash2031@gmail.com**
 - ⚡ Fun fact: **404: Seriousness not found.**
 
-<img align="right" width="300px" alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif">
+<img align="right" width="260px"
+     src="https://media.giphy.com/media/lUZfOjYTyqUBW/giphy.gif"
+     style="margin-top:-60px;">
+
 
 <p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<em><strong>A little more about me...</strong></em></p>
 
 <p>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 <b><i>Learning while HOPING & HUSTLING!!!</i></b>
 <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50">
 </p>
@@ -82,16 +84,9 @@
   </a> 
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uday2031&show_icons=true&locale=en&layout=compact&theme=dark" alt="uday2031" />
-</p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=uday2031&show_icons=true&locale=en&theme=dark" alt="uday2031" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uday2031&theme=black-ice" alt="uday2031" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uday2031&theme=black-ice" alt="uday2031" />
 </p>
 
 <hr/>
