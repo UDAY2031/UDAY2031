@@ -21,7 +21,7 @@
 - ⚡ Fun fact: **404: Seriousness not found.**
 
 <img align="right" width="260px"
-     src="https://media.giphy.com/media/lUZfOjYTyqUBW/giphy.gif"
+     src="https://github.com/UDAY2031/Projects/blob/9ed615ba0b7817e3ac3347e3fe9b72a30e25b6c6/L.png"
      style="margin-top:-60px;">
 
 
