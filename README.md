@@ -19,7 +19,9 @@
 
 ## ⚡ `SYSTEM.init()`
 
-<img align="right" src="https://github.com/UDAY2031/Projects/blob/9ed615ba0b7817e3ac3347e3fe9b72a30e25b6c6/L.png" width="260px"/>
+<table>
+<tr>
+<td valign="top" width="68%">
 
 ```typescript
 const uday: Developer = {
@@ -48,7 +50,14 @@ const uday: Developer = {
 - 🌱 Exploring **Deep Learning** frontiers & **Data Networks**
 - 💬 Talk to me about: **ML, AI, building products from scratch**
 
-<br clear="right"/>
+</td>
+<td valign="middle" align="center" width="32%">
+
+<img src="https://github.com/UDAY2031/Projects/blob/9ed615ba0b7817e3ac3347e3fe9b72a30e25b6c6/L.png" width="100%" style="border-radius:12px;"/>
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -109,28 +118,40 @@ const uday: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=uday2031&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=c9d1d9&ring_color=00d9ff&border_radius=10"/>
-&ensp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday2031&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=10"/>
+<table>
+<tr>
+<td width="55%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=uday2031&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=c9d1d9&ring_color=00d9ff&border_radius=10" width="100%"/>
+</td>
+<td width="45%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday2031&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=10" width="100%"/>
+</td>
+</tr>
+</table>
 
-</div>
-
-<div align="center">
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=uday2031&theme=tokyonight&hide_border=true&background=0d1117&stroke=0d1117&ring=00d9ff&fire=ff6b35&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00d9ff&sideLabels=7c3aed&dates=888888&border_radius=10" width="68%"/>
-</div>
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=uday2031&theme=tokyonight&hide_border=true&background=0d1117&stroke=0d1117&ring=00d9ff&fire=ff6b35&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00d9ff&sideLabels=7c3aed&dates=888888&border_radius=10" width="75%"/>
 
-<div align="center">
+<br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uday2031&theme=tokyonight" width="100%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uday2031&theme=tokyonight" width="32%"/>
-&ensp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uday2031&theme=tokyonight" width="32%"/>
-&ensp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uday2031&theme=tokyonight" width="28%"/>
+<br/>
+
+<table>
+<tr>
+<td width="34%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uday2031&theme=tokyonight" width="100%"/>
+</td>
+<td width="34%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uday2031&theme=tokyonight" width="100%"/>
+</td>
+<td width="32%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uday2031&theme=tokyonight" width="100%"/>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -169,17 +190,39 @@ const uday: Developer = {
 <div align="center">
 <br/>
 
+<table>
+<tr>
+<td align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Uday%20Kumar%20G-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/uday-kumar-g-3956312a4/)
-&ensp;
+
+</td>
+<td align="center">
+
 [![YouTube](https://img.shields.io/badge/YouTube-THE%20AI%20DREAM-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117)](https://www.youtube.com/c/THEAIDREAM)
-&ensp;
+
+</td>
+<td align="center">
+
 [![Instagram](https://img.shields.io/badge/Instagram-the__ai__dream__1-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/the_ai_dream_1)
-&ensp;
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
 [![CodeChef](https://img.shields.io/badge/CodeChef-spiderbot15-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117)](https://www.codechef.com/users/spiderbot15)
-&ensp;
+
+</td>
+<td align="center" colspan="2">
+
 [![Gmail](https://img.shields.io/badge/Gmail-yellowflash2031-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:yellowflash2031@gmail.com)
 
-<br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
 
 ```
   "Code never lies, comments sometimes do."
